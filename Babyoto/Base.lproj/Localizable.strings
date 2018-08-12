@@ -1,0 +1,50 @@
+/* 
+  Localization.strings
+  Babyoto
+
+  Created by KuAnh on 11/08/2018.
+  Copyright © 2018 KuAnh. All rights reserved.
+*/
+"app_name" = "babyoto";
+"p3_title" = "Language";
+"p1_install" = "Install";
+"p1_cancel" = "Cancel";
+"p1_update" = "Update";
+"p1_version_optional_1" = "The latest version has been released.\nIt became a more convenient and stable application than now.\nPlease update the application.";
+"p1_version_up_title" = "New version available";
+"p1_version_force_2" = "We have made a major update with new features and improve performance.\nIn order to use the application stably, please update to the latest version.";
+"p2_stop" = "Stop";
+"p2_1tv" = "TV";
+"p2_2cleaner" = "Vacuum cleaner";
+"p2_3dryer" = "Hairdryer";
+"p2_4vinyl" = "Plastic bag";
+"p2_5river" = "River";
+"p2_6lightrain" = "Light rain";
+"p2_7heavyrain" = "Heavy rain";
+"p2_8wave" = "Wave";
+"p2_9heart" = "Heart sound";
+"p2_10water" = "Water supply";
+"p4_title" = "Setting";
+"p4_version" = "Version";
+"p4_subject_mail_share" = "Baby-stop-crying sound application";
+"p4_msg_share" = "Baby Oto is a baby-stop-crying sound application ^^ It is recommended for night crying with easy operation!";
+"p4_share_mail" = "Mail";
+"p4_share_tw" = "Share via Twitter";
+"p4_share_fb" = "Share via Facebook";
+"p4_share_line" = "Share via Line";
+"p4_cancel_share" = "Cancel";
+"p4_share_friend" = "Share with friends";
+"p4_language" = "Language";
+"p4_other" = "Other";
+"p4_babyrepo" = "Child care diary · breastfeeding record";
+"review_title" = "Review application";
+"review_message" = "Thanks for using our application.\nPlease write a review about Baby Oto.\nWe will receive it and keep improving to make application better.";
+"review" = "Review";
+"later" = "Later";
+"never" = "Never";
+"network_error" = "No internet connection";
+"ok" = "OK";
+"TWITTER_NOT_AVAILABLE" = "Please check your Twitter account settings";
+"FACEBOOK_NOT_AVAILABLE" = "Please check your Facebook account settings";
+"MAIL_NOT_AVAILABLE" = "Please check your Mail account settings";
+"LINE_NOT_AVAILABLE" = "Please check your Line account settings";

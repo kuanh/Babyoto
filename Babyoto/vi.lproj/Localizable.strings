@@ -1,0 +1,50 @@
+/* 
+  Localization.strings
+  Babyoto
+
+  Created by KuAnh on 11/08/2018.
+  Copyright © 2018 KuAnh. All rights reserved.
+*/
+"app_name"  =  "babyoto";
+"p3_title"  =  "Ngôn ngữ (Language)";
+"p1_install" =   "Cài đặt";
+"p1_cancel"  =  "Huỷ bỏ";
+"p1_update"  =  "Cập nhật";
+"p1_version_optional_1"  =  "Phiên bản mới nhất đã được phát hành.\nỨng dụng đã được cập nhật để chạy ổn định và thuận tiện hơn hiện tại. Vui lòng cập nhật ứng dụng";
+"p1_version_up_title"  =  "Thông báo cập nhật";
+"p1_version_force_2" =   "Chúng tôi đã thực hiện cập nhật lớn do có thêm chức năng và cải tiến hiệu năng.\nĐể ứng dụng sử dụng được ổn định vui lòng nâng cấp lên phiên bản mới nhất";
+"p2_stop"  =  "Dừng";
+"p2_1tv"  =  "Tivi";
+"p2_2cleaner"  =  "Máy hút bụi";
+"p2_3dryer"  =  "Máy sấy tóc";
+"p2_4vinyl" =   "Túi nilon";
+"p2_5river"  =  "Dòng sông";
+"p2_6lightrain"  =  "Mưa nhỏ";
+"p2_7heavyrain" =   "Mưa to";
+"p2_8wave"  =  "Sóng";
+"p2_9heart"  =  "Nhịp tim";
+"p2_10water"  =  "Nước";
+"p4_title"  =  "Thiết lập";
+"p4_version"  =  "Phiên bản";
+"p4_subject_mail_share"  =  "Ứng dụng âm thanh dỗ trẻ ngừng khóc";
+"p4_msg_share"  =  "Baby Oto là ứng dụng âm thanh dỗ trẻ ngừng khóc^^";
+"p4_share_mail" =   "Mail";
+"p4_share_tw"  =  "Chia sẻ lên Twitter";
+"p4_share_fb"  =  "Chia sẻ lên Facebook";
+"p4_share_line"  =  "Chia sẻ lên Line";
+"p4_cancel_share"  =  "Huỷ bỏ";
+"p4_share_friend"  =  "Chia sẻ cho bạn bè";
+"p4_language"  =  "Ngôn ngữ";
+"p4_other"  =  "Khác";
+"p4_babyrepo"  =  "Nhật ký chăm sóc em bé";
+"review_title"  =  "Đánh giá ứng dụng";
+"review_message"  =  "Cám ơn bạn đã sử dụng ứng dụng\nNếu có thể vui lòng chia sẻ một chút đánh giá của bạn về ứng dụng nhé\nChúng tôi sẽ tiếp thu và tiếp tục nỗ lực cải tiến ứng dụng tốt hơn";
+"review"  =  "Đánh giá";
+"later"  =  "Để sau";
+"never" =   "Không bao giờ";
+"network_error"  =  "Mạng không kết nối được";
+"ok"  =  "OK";
+"TWITTER_NOT_AVAILABLE"  =  "Vui lòng kiểm tra thiết lập tài khoản Twitter";
+"FACEBOOK_NOT_AVAILABLE"  =  "Vui lòng kiểm tra thiết lập tài khoản Facebook";
+"MAIL_NOT_AVAILABLE"  =  "Vui lòng kiểm tra thiết lập tài khoản Mail";
+"LINE_NOT_AVAILABLE"  =  "Vui lòng kiểm tra thiết lập tài khoản Line";

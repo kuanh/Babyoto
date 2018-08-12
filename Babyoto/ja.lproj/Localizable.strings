@@ -1,0 +1,50 @@
+/* 
+  Localization.strings
+  Babyoto
+
+  Created by KuAnh on 11/08/2018.
+  Copyright © 2018 KuAnh. All rights reserved.
+*/
+"app_name" = "ベビオト";
+"p3_title" = "言語(Language)";
+"p1_install" = "インストール";
+"p1_cancel" = "キャンセル";
+"p1_update" = "アップデート";
+"p1_version_optional_1" = "最新のバージョンが公開されました。\n今よりも便利で安定したアプリになりました。\nぜひアップデートしてご利用ください。";
+"p1_version_up_title" =   "アップデートのお知らせ";
+"p1_version_force_2"   = "新機能の追加とパフォーマンス改善のため、大幅なアップデートを行いました。\n安定的にアプリをご利用いただくため、お手数ですが最新バージョンへのアップデートをお願いします。";
+"p2_stop"  =  "全停止";
+"p2_1tv"  =  "テレビ";
+"p2_2cleaner"  =  "掃除機";
+"p2_3dryer"  =  "ドライヤー";
+"p2_4vinyl"  =  "ビニール袋";
+"p2_5river"  =  "川";
+"p2_6lightrain"  =  "小雨";
+"p2_7heavyrain"  =  "大雨";
+"p2_8wave"  =  "波";
+"p2_9heart"  =  "心音";
+"p2_10water"  =  "水道";
+"p4_title"  =  "設定";
+"p4_version"  =  "Version";
+"p4_subject_mail_share"  =  "赤ちゃん泣き止み音アプリ";
+"p4_msg_share"  =  "「ベビオト」は赤ちゃん泣き止み音アプリ^^ 簡単操作で夜泣きにオススメです！";
+"p4_share_mail" =  "メール";
+"p4_share_tw"  =  "Twitterに書く";
+"p4_share_fb"  =  "Facebookに書く";
+"p4_share_line"  =  "LINEに書く";
+"p4_cancel_share" =   "キャンセル";
+"p4_share_friend"  =  "友達に教える";
+"p4_language"  =  "言語";
+"p4_other"  =  "その他";
+"p4_babyrepo"  =  "育児日記・授乳記録";
+"review_title"  =  "ベビオトからのお願い";
+"review_message"  =  "ご利用ありがとうございます。\nもしよければベビオトのレビュー評価にご協力ください。\n一言でもご要望でも感想でも大丈夫です。\n無料でアプリをご提供する励みになりますのでお願いいたしますm(_ _)m";
+"review" =   "レビューする";
+"later"  =  "あとで";
+"never"  =  "絶対しない";
+"network_error"  =  "ネット接続されていません";
+"ok"  =  "OK";
+"TWITTER_NOT_AVAILABLE" =  "Twitterアカウントの設定をご確認ください。";
+"FACEBOOK_NOT_AVAILABLE"  = "Facebookアカウントの設定をご確認ください。";
+"MAIL_NOT_AVAILABLE"  =  "メールアドレスの設定をご確認ください。";
+"LINE_NOT_AVAILABLE"  =  "LINEアプリがインストールされていないので、ご確認ください。";

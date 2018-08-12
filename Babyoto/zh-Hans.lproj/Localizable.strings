@@ -1,0 +1,50 @@
+/* 
+  Localization.strings
+  Babyoto
+
+  Created by KuAnh on 11/08/2018.
+  Copyright © 2018 KuAnh. All rights reserved.
+*/
+"app_name" = "babyoto";
+"p3_title" =  "语言";
+"p1_install" =  "安装";
+"p1_cancel" =  "取消";
+"p1_update" = "更新";
+"p1_version_optional_1" =  "最新版本已经发布。 \ n它变得比现在更加方便和稳定。 \ n请更新并请使用它。";
+"p1_version_up_title"  = "更新通知";
+"p1_version_force_2" =  "我们做了重大更新，以增加新功能并提高性能。 \ n为了稳定地使用应用程序，很抱歉给您造成麻烦，但请更新至最新版本。";
+"p2_stop" =  "句号";
+"p2_1tv" =  "电视";
+"p2_2cleaner" = "吸尘器";
+"p2_3dryer" =  "烘干机";
+"p2_4vinyl" = "塑料袋";
+"p2_5river" =  "一条河";
+"p2_6lightrain" = "小雨";
+"p2_7heavyrain" =  "大雨";
+"p2_8wave"  =  "波";
+"p2_9heart" = "心声";
+"p2_10water"  = "供水";
+"p4_title"  =  "设置";
+"p4_version"   = "版本";
+"p4_subject_mail_share"  =  "婴儿哭声停止声音应用程序";
+"p4_msg_share"  =  "“Baby Oto”是一个婴儿哭闹停止声音应用程序^ ^建议夜间哭泣与轻松操作！";
+"p4_share_mail" =  "电子邮件";
+"p4_share_tw" =   "在Twitter上撰写";
+"p4_share_fb" = "在Facebook上写";
+"p4_share_line" = "以LINE写入";
+"p4_cancel_share" =  "取消";
+"p4_share_friend" = "告诉朋友";
+"p4_language" = "语言";
+"p4_other" = "否则";
+"p4_babyrepo" = "育儿日记·母乳喂养记录";
+"review_title" = "Baby Oto的请求";
+"review_message" = "感谢您使用。 \ n如果您愿意，请配合Baby Oto的评论评估。 \ n这甚至是一个字或要求或印象。 \ n我们会鼓励你提供免费应用程序，所以请m（_ _）m";
+"review" = "审查";
+"later" = "后来";
+"never" = "绝对不是";
+"network_error" = "它没有连接到互联网";
+"ok" = "行";
+"TWITTER_NOT_AVAILABLE" =  "请检查您的Twitter帐户设置。";
+"FACEBOOK_NOT_AVAILABLE" = "请检查您的Facebook帐户设置。";
+"MAIL_NOT_AVAILABLE" = "请检查您的电子邮件地址设置。";
+"LINE_NOT_AVAILABLE" = "LINE应用程序未安装，请确认。";
